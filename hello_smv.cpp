@@ -5,5 +5,6 @@ using namespace std;
 
 void print_hello()
 {
-	cout << "SMV" << endl;
+	cout << "SMV pmi-18-1" << endl;
+	//changing
 }
