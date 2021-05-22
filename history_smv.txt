@@ -1,0 +1,213 @@
+    1  --global
+    2  $git config --global user.name "Mich"
+    3  git config --global user.name "smicheya1997"
+    4  git config --global user.name "Mi Snow"
+    5  git config --global user.name "Mi Snow"
+    6  cd ~/
+    7  ls -al
+    8  sudo chown -R username /Users/username
+    9  sudo chown -R User /Users/User
+   10  sudo chown -R $(whoami) .config
+   11  cd ~/
+   12  sudo chown -R User /c/Users/User
+   13  git config --global user.name "Mi Snow"
+   14  git config --global core.editor your-favorite-editor
+   15  open "$HOME/ .gitconfig"
+   16  git config --global user.name "Mi Sem"
+   17  git config --global user.email nu13mb@gmail.com
+   18  git config --global core.editor nano
+   19  git config --list --global
+   20  git log --oneline --decorate --graph -all
+   21  git log --oneline --decorate --graph -all
+   22  git init SemenovaM
+   23  git add .gitignore
+   24  cd SemenovaM
+   25  git add .gitignore
+   26  cd
+   27  .gitignore
+   28  nano .gitignore
+   29  cat .gitignore
+   30  cd SmemnovaM
+   31  cd SemenovaM
+   32  git add test.cpp
+   33  git status
+   34  git add .
+   35  ls
+   36  git status
+   37  git add histoty.txt
+   38  cd
+   39  git log --oneline --decorate --graph -all
+   40  cd SemenovaM
+   41  git log --oneline --decorate --graph -all
+   42  cd
+   43  git config --oneline --decorate --graph -all
+   44  git status
+   45  git init
+   46  ls -a
+   47  cd .git
+   48  ls -a
+   49  ll
+   50  cat config
+   51  cd ../
+   52  ls -a
+   53  git config --list --global
+   54  git ll
+   55  git satus
+   56  git status
+   57  nano .gitignore
+   58  nano .gitignore
+   59  cat .gitignore
+   60  git status
+   61  nano hello.py
+   62  git add .
+   63  git commit -m "my first commit. add hello."
+   64  git status
+   65  git log
+   66  git ll
+   67  git add .
+   68  git add.
+   69  ls
+   70  git status
+   71  git add history.txt
+   72  git add history.txt
+   73  ls
+   74  cd 
+   75  cd ../
+   76  cd SemenovaM
+   77  ls
+   78  ls -a
+   79  cd /SemenovaM
+   80  cd
+   81  cd /SemenovaM
+   82  ls
+   83  git cinfig --global alias.ll 'git log --oneline --decorate --graph -all'
+   84  git config --global alias.ll 'git log --oneline --decorate --graph -all'
+   85  git init SMV
+   86  nano .gitignore
+   87  cat .gitignore
+   88  mv count.cpp SMV
+   89  ~/Рабочий стол$ mv count.cpp SMV
+   90  nano count.cpp
+   91  nano hello.cpp
+   92  nano main.cpp
+   93  ls
+   94  ~/pmi-18$ mv count.cpp SMV
+   95  mv count.cpp SMV
+   96  mv hello.cpp SMV
+   97  mv main.cpp SMV
+   98  git status
+   99  git add count.cpp
+  100  cd /SMV
+  101  cd \SMV
+  102  git add count.cpp
+  103  git status
+  104  git add hello.cpp
+  105  git add main.cpp
+  106  git status
+  107  git commit
+  108  git log
+  109  git ll
+  110  git commit
+  111  git log
+  112  git commit -m "commit"
+  113  git log
+  114  nano hello.cpp
+  115  git add hello.cpp
+  116  git status
+  117  git restore -staged
+  118  git reset HEAD hello.cpp
+  119  git status
+  120  git checkout hello.cpp
+  121  git status
+  122  git add hello.cpp
+  123  git status
+  124  git commit -m "commit"
+  125  git status
+  126  git log
+  127  git status
+  128  ls -a
+  129  git reset HEAD hello.cpp
+  130  git status
+  131  git checkout --hello.cpp
+  132  git checkout -- hello.cpp
+  133  git status
+  134  git clone https://github.com/smicheya/smv#smv
+  135  git clone https://github.com/smicheya/smv.git
+  136  nano hello_smv.cpp
+  137  history > history.txt
+  138  git config --global user.name "Semenova M"
+  139  git config --global user.email nu13mb@gmail.com
+  140  git config --global core.editor nano
+  141  git config --list --global 
+  142  git config --global alias.ll 'git log --oneline --decorate --graph -all'
+  143  git init SMV
+  144  cd SMV
+  145  cat>gitignore
+  146  nano .gitignore
+  147  cd
+  148  mv hello.cpp SMV
+  149  mv main.cpp SMV
+  150  mv factorial.cpp SMV
+  151  mv functions.h SMV
+  152  cd SMV
+  153  git status
+  154  git add main.cpp
+  155  git add hello.cpp
+  156  git add factorial.cpp
+  157  git add functions.h
+  158  git commit -m "commit"
+  159  git status
+  160  cat .gitignore
+  161  cat> .gitignore
+  162  cat .gitignore
+  163  git add factorial.cpp
+  164  git status
+  165  git add hello.cpp
+  166  nano .gitignore
+  167  git add hello.cpp
+  168  git add factorial.cpp
+  169  git add main.cpp
+  170  git commit -m "commit"
+  171  git status
+  172  git status
+  173  git commit -m "commit"
+  174  git config --global nu13mb@gmail.com
+  175  git config --global user.email nu13mb@gmail.com
+  176  git config --global user.name "Semenova M"
+  177  git commit -m "commit"
+  178  git status
+  179  git log
+  180  nano hello.cpp
+  181  git add hello.cpp
+  182  git status
+  183  git reset HEAD hello.cpp
+  184  git status
+  185  git checkout -- hello.cpp
+  186  git status
+  187  ls
+  188  git clone https://github.com/smicheya/smv.git
+  189  ls
+  190  cd smv
+  191  nano hello_smv.cpp
+  192  nano hello_smv.cpp
+  193  nano main.cpp
+  194  git add hello_smv.cpp
+  195  git add main.cpp
+  196  git commit -m "commit smv"
+  197  git status
+  198  git pull
+  199  git push origin main
+  200  git push origin main
+  201  git push origin main
+  202  git pull origin main
+  203  nano hello_smv.cpp
+  204  cat hello_smv.cpp
+  205  git add hello_smv.cpp
+  206  git status
+  207  git commit -m "commit change hello_smv"
+  208  git status
+  209  git push origin main
+  210  git log
+  211  git reset --hard HEAD^1
+  212  git log
+  213  history > history_smv.txt
